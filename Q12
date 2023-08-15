@@ -1,0 +1,6 @@
+volume_pote = 15*10*13
+volume_queijo=4/3*3.14*(1.2**3)
+totalEspaco = 74/100 * volume_pote
+bolinhasTotais = totalEspaco/volume_queijo
+
+print(bolinhasTotais)
