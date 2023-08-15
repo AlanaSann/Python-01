@@ -1,0 +1,9 @@
+cerveja = 75*2.20
+macarrao= 2*8.73
+molho_de_tomate = 3.45
+cebola = (420/1000)*5.40
+alho = (250/1000)*30
+pao = (450/1000)*25
+total=cerveja+macarrao+molho_de_tomate+cebola+alho+pao
+total = total/5
+print("Ficou para cada um: ",total)
